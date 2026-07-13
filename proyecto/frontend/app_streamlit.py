@@ -1,1 +1,0 @@
-# TODO: interfaz con 3 secciones
