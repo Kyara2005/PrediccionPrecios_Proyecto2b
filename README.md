@@ -6,7 +6,7 @@ Proyecto de Inteligencia Artificial que predice el precio estimado de una casa e
 
 - **API (backend):** https://ia-p.onrender.com
 - **Documentación interactiva de la API:** https://ia-p.onrender.com/docs
-- **Aplicación web (frontend):** *agregar aquí el link de Streamlit Cloud*
+- **Aplicación web (frontend):** https://casasia2026.streamlit.app/
 
 ## 🧠 Descripción del proyecto
 
